@@ -5,7 +5,7 @@ Project for Harvard Extension School course CSCI E-3.
 
 ### How to use
 
-- DEMO HERE(http://deepakpathak.in/finalproject)
+- [DEMO HERE] (http://deepakpathak.in/finalproject)
 - Download, unzip and open index.html in browser of your choice. I tested in Chrome adn firefox on the desktop.
 
 ### Application overview
