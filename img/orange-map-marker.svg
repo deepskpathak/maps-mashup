@@ -1,0 +1,15 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Orange Map Marker</title>
+ <defs>
+  <filter id="svg_3_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur stdDeviation="7"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m199.182526,273.92395c-22,-49.677582 -61.666672,-60.617432 -44,-78.013565c17.666672,-17.396133 69.000015,-15.961395 87.000015,0c17.999985,15.961395 -27.000015,28.156631 -43.000015,78.013565z" id="svg_3" transform="rotate(10.181324005126953 198.56723022460926,228.65974426269526) " filter="url(#svg_3_blur)"/>
+  <path fill="#ff7f00" stroke="#ff0000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m191,264c-22,-92.332993 -61.667007,-112.667007 -44,-145c17.667007,-32.333298 69,-29.666702 87,0c18,29.667007 -27,52.332993 -43,145z" id="svg_1"/>
+  <path fill="#FF0000" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" d="m190,261" id="svg_2"/>
+ </g>
+</svg>
