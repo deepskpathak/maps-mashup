@@ -3,6 +3,11 @@ Project for Harvard Extension School course CSCI E-3.
 
 ## Note to viewer :
 
+### How to use
+
+- DEMO HERE(http://deepakpathak.in/finalproject)
+- Download, unzip and open index.html in browser of your choice. I tested in Chrome adn firefox on the desktop.
+
 ### Application overview
 
 - The application enables the user to find specific points of interest (POI) around his area. 
