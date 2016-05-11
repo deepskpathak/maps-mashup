@@ -21,6 +21,7 @@ Project for Harvard Extension School course CSCI E-3.
 
 - AJAX (Google MAP API is REST based data, another function to get a fallback uses a AJAX callback mechanism)
 - DOM creation and Modification
-- Event Handling (inside Google MAP API's , for drag, and resize of circle on canvas)
+- Event Handling (inside Google MAP API's , for drag, and resize of circle on canvas, and normal show-hide purposes)
 - Data Structure handling
+- Closures (for autocomplete)
 
